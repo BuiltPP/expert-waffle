@@ -7,9 +7,12 @@
 //
 
 #include <stdio.h>
+#include <math.h>
 
 int main(int argc, const char * argv[]) {
-    printf("Hello, World!\n");
-    printf("this is my life");
+    printf("Calculation Program\n");
+    printf("What calculation method you want to use?\n");
+    printf("Addition press 1\n");
+    printf("Subtraction press 2\n");    
     return 0;
 }
